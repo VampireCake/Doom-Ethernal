@@ -1,2 +1,2 @@
 # GTA-VI
-Projekat škola
+Projekat srednjoškolaca koji je namjenjen za učenje.
