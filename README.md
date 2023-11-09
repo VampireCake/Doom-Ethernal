@@ -1,2 +1,10 @@
-# GTA-VI
-Projekat srednjoškolaca koji je namjenjen za učenje.
+# GTA-V
+Projekat škola
+
+
+
+
+mama
+=======
+Projekat srednjoškolaca koji je namjenjen za učenje
+
